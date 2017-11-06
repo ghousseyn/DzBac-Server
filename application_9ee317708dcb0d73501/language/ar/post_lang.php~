@@ -1,0 +1,5 @@
+<?php
+
+$lang["post_supprime"] = "! مشاركة محذوفة";
+$lang["post_ajouter"] = "تم ا";
+$lang["post_modifier"] = "Post modifié !";

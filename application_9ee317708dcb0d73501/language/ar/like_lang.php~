@@ -1,0 +1,4 @@
+<?php
+
+$lang["like_like"] = "تحب";
+$lang["like_dislike"] = "Vous n'aimez plus le post !";

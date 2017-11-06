@@ -1,0 +1,10 @@
+{
+  "description" : "My great CodeIgniter application",
+  "name" : "Avenirer/myApp",
+  "require": {
+    "php": ">=5.3",
+    "predis/predis": "^1.1",
+    "facebook/graph-sdk" : "~5.0",
+    "hashids/hashids": "^1.0"
+  }
+}
